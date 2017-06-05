@@ -17,3 +17,12 @@ collection扩展包，有效地丰富了目前JDK中的collections的操作方�
 所以google-collections.jar的源代码跟guava是一样的，只是google-collections.jar精简了一些类，没有这么大的，如果在实际使用的
 话，可以直接使用.jar了。
 
+
+## 效果图样子
+
+下面我们来看看编译完成之后的效果图如何的
+
+![Example1](gifs/exam_1.png)
+
+
+![Example2](gifs/exam_1.png)
