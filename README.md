@@ -25,4 +25,4 @@ collection扩展包，有效地丰富了目前JDK中的collections的操作方�
 ![Example1](gifs/exam_1.png)
 
 
-![Example2](gifs/exam_1.png)
+![Example2](gifs/exam_2.png)
